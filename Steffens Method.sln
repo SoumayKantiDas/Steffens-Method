@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Steffens Method", "Steffens Method.csproj", "{96656633-D855-4025-9D2A-73DC820A6FCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96656633-D855-4025-9D2A-73DC820A6FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96656633-D855-4025-9D2A-73DC820A6FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96656633-D855-4025-9D2A-73DC820A6FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96656633-D855-4025-9D2A-73DC820A6FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CE0B4B2-9808-4DAB-B1A3-9FE0DFC45059}
+	EndGlobalSection
+EndGlobal
